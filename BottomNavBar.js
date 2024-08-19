@@ -1,4 +1,5 @@
 cfg.Portriat;
+//cfg.Fast;
 
 //Called when application is started.
 function OnStart()
@@ -31,3 +32,4 @@ app.Script( "Config.package.js")
 app.Script("UITheme.class.js");
 app.Script("Theme.obj.package.js");
 app.Script("UITheme.BottomNavbar.class.js");
+//app.Script( "AccountPage.js");
